@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "quiport",
+  "private_key_id": "fd2a15a85ede8adc33a1c5b1369174daf00106be",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvwIBADANBgkqhkiG9w0BAQEFAASCBKkwggSlAgEAAoIBAQCq1BOmiIipX8An\nig1N9UnUYU7BpGK9Qt4MRLa87kJ5FgwxwZGxWevS5pqymeJ0S5nuq60raDgWiizs\nT6RBlKLt8ZTr/ao1toG0Iu8YV5Wm3SphYqixvmFl+8zX728j4r3N/+GUfKp5V0/e\nXaoGmecdqXXg76SiLJG8pqHZuf+b7MGcMNrG93C94zJxxQ9pvDuF9M4srGALGDOB\nKqyX2Uk/lIhlGtaYOmDYjoyN/Kim/Ktcx5EFdYxr+2alUX/tAFB1gP4fyaZeHK7j\nYSH3BsnsSwmWo/+u+j2357EANgOcWbHKlkS0Xu4sS0M5PO5rr81F4ZAX9EK3lVKv\n9oZs9MhpAgMBAAECggEAAIXMlhYRhj4CHPkXWaWuWeec7FNq3spkVIzqC8qmwSSX\njiW+3wtr2cydEYGV4fGF9BvZhXYwYq7eZsywWyulJhxEcYvO0ClpEBj20UKDY0Wh\nu3BqWOEC9bwExqp/ColawissPoGzBSpcfHvmNTJi123nJ0Q+yV5UilXxnTazzgPU\neruYOrKSRAVcvQeElFdrdADAO+I2YRbnHagXgp10612g9uiJQOFWUC5kb3uqTsvc\nQzTDj4MC0lpk0YsCloTnSzneOXi++vHeMIMBj6bOwT9TkqXkGNYZEEV6XGKg7EHe\nzFhlCyia+M7cuTXrvUs1WTyHKNMt21Lsn0f9MOsUjwKBgQDWeFdyorweM/0+FuaB\nkSQzRHf6USsXRTC+d+Hy//Bik3Imdp3S3u378oc8mRH0Zhl4770CvmzGf41kfJrN\nnokCG6jHaC/yVW7ho8Q2w7iMa5vLrVtte4IKo12wS2HBmSU0/kaycFFs3KoGhZmn\nO+iAP3keGp8z4duXBLL68TbM1wKBgQDL6FduZHkeP1yGWUuiypLIL/vSreWCl3Yi\n9tBwYfnpp8MP5yZrENOjeuVlwprlvfr3eeMxOikVl6o1dY8X3+OrSC05hTUD8GeP\nZ8xR9r7oTeyoLPGkqAESrtIPNd4hgPypMYb5JcMAqMjtACuPznm4FAQwfFkTqPdo\ncvISdGssvwKBgQDT67nNJoxn88tKrOo8IST6G6/KAqZnqhDORDtaGBh572QeKZst\noObby/xhnoclTjXhUFMeAPgO9D7MimuUvhB3qskNsR+ff1e/UkkyLBeReUtK6ROs\njRwkUuTirLn9yMwBHzjQXTe4MBs5so3vt7y37QBLBNdHNuf6w8PvPqZ9pQKBgQCo\nC9x6ay1yYy+ivVbbW+2qM/lqwMwEW0UOPbC83dIz4YGdypdb52s0MOV7fu1fZ7m8\nWOSHPnJ7jBnHoxIB0A92qq4y2Hg/vdHrWtUFu7/L/eSLGTcwxxDTT+ZoiLF/lSkl\nW17sWFWkZnXo9JnyE2026rAlMWXMERWNLCYaVX26SwKBgQCaPRr5LEgcsiJlJHNA\nncTDZuqc5eigiKFydVQ8WupyDrhW5ifCIhoy6mNAa13kZqnH1vgKSXhEuHV4P/Zj\nyjefW5jzkefaz6JDlQrrPymUb4vv2MfRot/0vrVOspSlGgVEPJNb3DWV2aMbpc3S\nlJDKtbvwXbJ85Uwax1z/FDYmQQ==\n-----END PRIVATE KEY-----\n",
+  "client_email": "firebase-adminsdk-ococh@quiport.iam.gserviceaccount.com",
+  "client_id": "104866288779392624912",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/firebase-adminsdk-ococh%40quiport.iam.gserviceaccount.com"
+}

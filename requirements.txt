@@ -1,0 +1,8 @@
+google-cloud
+google-cloud-storage
+google-cloud-pubsub
+google-api-python-client
+google-api-core
+firebase-admin
+numpy
+pillow
